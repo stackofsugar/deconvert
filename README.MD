@@ -1,11 +1,8 @@
-# Guess My Number
+# DeConvert
 A simple CLI program that converts decimal numerals to binary, octal, and hexadecimals.
 
+Currently supports conversion from decimal to:
+- Binary
+- Octal
 
-Assigned by   : *self assigned*
-
-Class         : *Sistem Digital*
-
-Session       : *1*
-
-Lecturer      : *Dr. WISNU WIDIARTO S.Si.,M.T.*
+THIS PROJECT WAS MOVED FROM [UnsAssignment](https://github.com/stackofsugar/UnsAssignments "Open UnsAssignment Repository")
